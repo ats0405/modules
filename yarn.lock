@@ -8342,17 +8342,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"globby@npm:^12.0.2":
-  version: 12.0.2
-  resolution: "globby@npm:12.0.2"
+"globby@npm:^12.2.0":
+  version: 12.2.0
+  resolution: "globby@npm:12.2.0"
   dependencies:
     array-union: ^3.0.1
     dir-glob: ^3.0.1
     fast-glob: ^3.2.7
-    ignore: ^5.1.8
+    ignore: ^5.1.9
     merge2: ^1.4.1
     slash: ^4.0.0
-  checksum: f474ced866755f48ce7e8a7e11b0a1d90fa1f1c25cf86c245fbf05a862accfba695102a843b6386dbe41fa73c2f9a7e625bf566fa7648d2e1304f58748975e3f
+  checksum: 2539379a7fff3473d3e7c68b4540ba38f36970f43f760e36e301515d5cb98a0c5736554957d90390906bee632327beb2f9518d1acd6911f61e436db11b0da5b5
   languageName: node
   linkType: hard
 
@@ -14023,7 +14023,7 @@ __metadata:
     defu: ^5.0.0
     eslint: ^8.6.0
     eslint-plugin-nuxt: ^3.1.0
-    globby: ^12.0.2
+    globby: ^12.2.0
     hasha: ^5.2.2
     jiti: ^1.12.9
     js-yaml: ^4.1.0
